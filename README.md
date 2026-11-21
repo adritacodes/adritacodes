@@ -24,20 +24,8 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-<!-- 🐱 CUTE SCUBA KITTEN GIF -->
-<div align="center">
-  <img src="https://media.tenor.com/94j7d6r8kNUAAAAj/scuba.gif" alt="Cute scuba kitten" width="200" />
-</div>
-
-# 📊 My Progress Grid
-<!-- This grid uses `github-personal-stats` to render a clean, combined dashboard. -->
-<div align="center">
-  <img src="https://github-personal-stats.vercel.app/api?username=adritacodes&theme=dark" alt="GitHub Personal Stats Dashboard" />
-</div>
-
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=adritacodes&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=adritacodes&theme=github_dark&hide_border=false)<br/>
@@ -58,5 +46,3 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
   ## 💌 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/adritadey) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/AdritaDey404) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
